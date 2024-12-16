@@ -6,7 +6,7 @@
 
 ## 🖼 Примеры 🖼
 
-![Beautiful Mountain](beautiful mountain.png)
+![Beautiful Mountain](beautiful_mountain.png)
 
 ## 📈 Эволюция Диффузионных Моделей 📈
 
